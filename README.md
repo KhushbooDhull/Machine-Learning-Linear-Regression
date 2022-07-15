@@ -1,2 +1,2 @@
 # Machine-Learning-Linear-Regression
-Getting familiarising with Linear Regression with Project based Application.
+Getting familiarised with Linear Regression through Project based Application.
